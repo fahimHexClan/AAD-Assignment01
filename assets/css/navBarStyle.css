@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 .gradient-text {
-    background: linear-gradient(65deg, #382CC5, #b7bcca);
+    background: linear-gradient(65deg, #156e3c, #097e2a);
     -webkit-background-clip: text;
     color: transparent;
     font-weight: bold;
@@ -21,7 +21,7 @@ body{
 }
 
 #search>button{
-    border: #382CC5 solid 2px;
+    border: #76ffb3 solid 2px;
    /* color: #382CC5;*/
     font-weight: bold;
 }
